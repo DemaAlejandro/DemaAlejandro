@@ -1,7 +1,7 @@
 ## Hi there, I'm Alejandro de Manueles 👋
 
 <div align="center">
-  <** img [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A38A9&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+IA+Specialist)](https://git.io/typing-svg)**>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A38A9&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+IA+Specialist)](https://git.io/typing-svg)**
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
